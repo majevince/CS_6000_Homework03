@@ -1,3 +1,16 @@
-- Dataset1 was as CSV file and it was easy to read and export
-- - Dataset2 was as CSV file and it was easy to read and export
-  - - Dataset3 was as CSV file and it was easy to read and export
+- Dataset1 
+    - The dataset was easily accessible and store on my local machine
+    - Pre processing of the data was easy because it was in a CSV format
+    -  exploring the data as well was also easy , because i don't need to do any data conversion or looking for the desire libraries for the conversion
+    -  reading datset with pandas libraries was pretty straight forward
+- - Dataset2
+    - The dataset was easily accessible and store on my local machine
+    - Pre processing of the data was easy because it was in a CSV format
+    -  exploring the data as well was also easy , because i don't need to do any data conversion or looking for the desire libraries for the conversion
+    -  reading datset with pandas libraries was pretty straight forward
+ 
+  - - Dataset3
+    - The dataset was easily accessible and store on my local machine
+    - Pre processing of the data was easy because it was in a CSV format
+    -  exploring the data as well was also easy , because i don't need to do any data conversion or looking for the desire libraries for the conversion
+    -  reading datset with pandas libraries was pretty straight forward
